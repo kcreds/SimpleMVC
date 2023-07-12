@@ -1,0 +1,1 @@
+<h1>Simple MVC</h1>
